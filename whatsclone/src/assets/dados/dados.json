@@ -1,0 +1,59 @@
+
+[
+    {
+        "imagem" : "../../assets/imgPerfil/jackdorsey.jpg",
+        "nome" : "Jack Dorsey",
+        "msg" : "Hey Abner! How are you?...",
+        "horario" : "11:45",
+        "msgNaoLida" : "4"
+    },
+    {
+        "imagem" : "../../assets/imgPerfil/billgates.jpg",
+        "nome" : "Bill Gates",
+        "msg" : "Hey Abner! Tranquilo?...",
+        "horario" : "9:40",
+        "msgNaoLida" : "0"
+    },
+    {
+        "imagem" : "../../assets/imgPerfil/mark.jpg",
+        "nome" : "Mark Zuckerberg",
+        "msg" : "Eita! Aqui no Facebook...",
+        "horario" : "8:25",
+        "msgNaoLida" : "1"
+    },
+    {
+        "imagem" : "../../assets/imgPerfil/chaves.jpg",
+        "nome" : "Chaves",
+        "msg" : "Foi sem querer querendo...",
+        "horario" : "4:55",
+        "msgNaoLida" : "0"
+    },
+    {
+        "imagem" : "../../assets/imgPerfil/jacksparrow.jpg",
+        "nome" : "Jack Sparrow",
+        "msg" : "Bebei amigos yo ho...",
+        "horario" : "23:55",
+        "msgNaoLida" : "0"
+    },
+    {
+        "imagem" : "../../assets/imgPerfil/gumball.jpg",
+        "nome" : "Gumball",
+        "msg" : "Quando você fala uma...",
+        "horario" : "12:55",
+        "msgNaoLida" : "2"
+    },
+    {
+        "imagem" : "../../assets/imgPerfil/homer.jpg",
+        "nome" : "Homer Simpson",
+        "msg" : "Porco aranha porco...",
+        "horario" : "00:45",
+        "msgNaoLida" : "10"
+    },
+    {
+        "imagem" : "../../assets/imgPerfil/slash.jpg",
+        "nome" : "Slash",
+        "msg" : "Vamos fazer um som?...",
+        "horario" : "14:25",
+        "msgNaoLida" : "2"
+    }
+]
