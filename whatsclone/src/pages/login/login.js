@@ -1,7 +1,7 @@
 import React from 'react';
-import {Text, View, StyleSheet, Image, TextInput, TouchableHighlight, Alert} from 'react-native';
+import {Text, View, StyleSheet, Image, TextInput, TouchableHighlight} from 'react-native';
 
-const Login = () =>{
+const Login = ({navigation}) =>{
     return(
         <View style={style.container}>
             <View style={style.titleArea}>
@@ -21,7 +21,7 @@ const Login = () =>{
                 </View>           
             </View>
             <View style={style.bottomArea}>
-                <TouchableHighlight underlayColor={'#fff'} style={style.button} onPress={() => Alert.alert('ok')}>
+                <TouchableHighlight underlayColor={'#fff'} style={style.button} onPress={() => navigation.navigate('ChatPage')}>
                     <Text style={style.buttonText}>AVANÇAR</Text>
                 </TouchableHighlight>
                 <Text style={style.textInfoRodape}>Tarifas de SMS de sua operadora podem ser aplicadas</Text>
