@@ -21,7 +21,7 @@ const Login = () =>{
                 </View>           
             </View>
             <View style={style.bottomArea}>
-                <TouchableHighlight style={style.button} onPress={() => Alert.alert('ok')}>
+                <TouchableHighlight underlayColor={'#fff'} style={style.button} onPress={() => Alert.alert('ok')}>
                     <Text style={style.buttonText}>AVANÇAR</Text>
                 </TouchableHighlight>
                 <Text style={style.textInfoRodape}>Tarifas de SMS de sua operadora podem ser aplicadas</Text>

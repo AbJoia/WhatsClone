@@ -1,59 +1,68 @@
 
 [
     {
-        "imagem" : "../../assets/imgPerfil/jackdorsey.jpg",
+        "id": 1,
+        "imagem" : "https://static01.nyt.com/images/2019/05/02/fashion/02JACK-1/02JACK-1-superJumbo.jpg",
         "nome" : "Jack Dorsey",
         "msg" : "Hey Abner! How are you?...",
         "horario" : "11:45",
-        "msgNaoLida" : "4"
+        "msgNaoLida" : 4
     },
     {
-        "imagem" : "../../assets/imgPerfil/billgates.jpg",
+        "id": 2,
+        "imagem" : "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ebe0c87612dab4f12a597%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D292%26cropX2%3D3684%26cropY1%3D592%26cropY2%3D3987",
         "nome" : "Bill Gates",
         "msg" : "Hey Abner! Tranquilo?...",
         "horario" : "9:40",
-        "msgNaoLida" : "0"
+        "msgNaoLida" : 0
     },
     {
-        "imagem" : "../../assets/imgPerfil/mark.jpg",
+        "id": 3,
+        "imagem" : "https://s2.glbimg.com/rEVO6kPmnu4ciTDMOpZuxZzopE8=/0x0:4104x2736/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/m/S/TAcrJwSi2qsRJSxofOBw/ap20142709396824.jpg",
         "nome" : "Mark Zuckerberg",
         "msg" : "Eita! Aqui no Facebook...",
         "horario" : "8:25",
-        "msgNaoLida" : "1"
+        "msgNaoLida" : 1
     },
     {
-        "imagem" : "../../assets/imgPerfil/chaves.jpg",
+        "id": 4,
+        "imagem" : "https://exame.com/wp-content/uploads/2019/10/cropped-chaves-divulgacao3.jpg",
         "nome" : "Chaves",
         "msg" : "Foi sem querer querendo...",
         "horario" : "4:55",
-        "msgNaoLida" : "0"
+        "msgNaoLida" : 0
     },
     {
-        "imagem" : "../../assets/imgPerfil/jacksparrow.jpg",
+        "id": 5,
+        "imagem" : "https://ofuxico.com.br/img/upload/noticias/2017/05/20/johnny-depp-so-atende-se-for-chamado-de-jack-sparrow_294577_36.jpg",
         "nome" : "Jack Sparrow",
         "msg" : "Bebei amigos yo ho...",
         "horario" : "23:55",
-        "msgNaoLida" : "0"
+        "msgNaoLida" : 0
     },
     {
-        "imagem" : "../../assets/imgPerfil/gumball.jpg",
+        "id": 6,
+        "imagem" : "https://img.ibxk.com.br/ms/images/highlights/000/034/730/1492.jpg?w=256&h=380&mode=crop&scale=both&404=/2014/1/materias/ms-imagem-2.jpg",
         "nome" : "Gumball",
         "msg" : "Quando você fala uma...",
         "horario" : "12:55",
-        "msgNaoLida" : "2"
+        "msgNaoLida" : 2
     },
     {
-        "imagem" : "../../assets/imgPerfil/homer.jpg",
+        "id": 7,
+        "imagem" : "https://files.nsctotal.com.br/s3fs-public/styles/itapema_blog_post_header/public/2019-12/homer.jpg?_t1iu.VfcblHrxTOUA5fTcAtYuubB_4Y&itok=zOp3Twln",
         "nome" : "Homer Simpson",
         "msg" : "Porco aranha porco...",
         "horario" : "00:45",
-        "msgNaoLida" : "10"
+        "msgNaoLida" : 10
     },
     {
-        "imagem" : "../../assets/imgPerfil/slash.jpg",
+        "id": 8,
+        "imagem" : "https://jpimg.com.br/uploads/2019/04/reprodu%C3%A7%C3%A3o_slash.jpg",
         "nome" : "Slash",
         "msg" : "Vamos fazer um som?...",
         "horario" : "14:25",
-        "msgNaoLida" : "2"
+        "msgNaoLida" : 2
     }
 ]
+    

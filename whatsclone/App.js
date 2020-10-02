@@ -13,8 +13,8 @@ import Login from './src/pages/login/login'
 
 const App = () => {
   return (
-    <Login/>
-    // <ChatPage />
+    // <Login/>
+    <ChatPage />
   )   
 };
 
